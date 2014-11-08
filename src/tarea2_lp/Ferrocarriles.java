@@ -18,5 +18,5 @@ public class Ferrocarriles extends Comprable{
         return rent[i];
     }
     private final int[] rent = {25, 50, 100, 200};
-    private String owner;
+    private int owner;
 }
